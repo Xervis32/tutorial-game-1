@@ -6,3 +6,6 @@ A simple 2D Unity game created to learn core engine features. Based on a YouTube
 
 ## Notes
 - fixed an issue where rapid attack input triggered two attack sequences instead of a single one
+
+## Screenshots
+![Gameplay](Screenshots/gameplay.png)
